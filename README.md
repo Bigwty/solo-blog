@@ -10,7 +10,7 @@ Bigwty 的个人博客
 
 ### 最新
 
-* [python 实现 AI 换脸](http://abc.zd1215.cn:8085/articles/2019/09/02/1567414805189.html)
+* [python 实现 AI 换脸](http://www.zd1215.cn:8085/articles/2019/09/02/1567414805189.html)
 
 
 
