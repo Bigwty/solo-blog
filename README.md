@@ -10,6 +10,9 @@ Bigwty 的个人博客
 
 ### 最新
 
+* [Python 超级玛丽代码实现(1):界面和状态机实现](http://www.zd1215.cn:8085/articles/2019/09/03/1567481414709.html)
+* [博客目录与概览](http://www.zd1215.cn:8085/articles/2019/09/03/1567481299527.html)
+* [TensorFlow 2.0 教程](http://www.zd1215.cn:8085/articles/2019/09/03/1567481218319.html)
 * [python 实现 AI 换脸](http://www.zd1215.cn:8085/articles/2019/09/02/1567414805189.html)
 
 
