@@ -10,6 +10,7 @@ Bigwty 的个人博客
 
 ### 最新
 
+* [我在 GitHub 上的开源项目](http://www.zd1215.cn:8085/my-github-repos)
 * [Python 超级玛丽代码实现(1):界面和状态机实现](http://www.zd1215.cn:8085/articles/2019/09/03/1567481414709.html)
 * [博客目录与概览](http://www.zd1215.cn:8085/articles/2019/09/03/1567481299527.html)
 * [TensorFlow 2.0 教程](http://www.zd1215.cn:8085/articles/2019/09/03/1567481218319.html)
